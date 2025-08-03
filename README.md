@@ -190,7 +190,7 @@ Ensure you have the following installed:
 ## 🌐 Live Application
 
 ### 🚀 Deployed App
-**🔗 [Amazon Product Scraper - Live App](https://your-deployed-app-url.streamlit.app)**
+**🔗 [Amazon Product Scraper - Live App](https://amazon-web-scraper.streamlit.app/)**
 
 
 ## 🔮 Roadmap
