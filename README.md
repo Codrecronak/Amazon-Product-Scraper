@@ -172,7 +172,7 @@ Ensure you have the following installed:
 ## 📱 Demo
 
 ### 🎬 Live Demo
-[Watch demo video](assets/demo.mp4)
+![Watch demo video](assets/demo.mp4)
 
 
 ### 📸 Screenshots
