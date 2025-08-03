@@ -248,7 +248,7 @@ MIT License - Feel free to use this project for personal and commercial purposes
 
 ### 🆘 Need Help?
 
-- 📧 **Email**: support@your-domain.com
+- 📧 **Email**: ronaksspw@gmail.com
 
 ### 🐛 Report Issues
 
