@@ -170,8 +170,8 @@ Ensure you have the following installed:
 
 ## 📱 Demo
 
-### 🎬 Live Demo
-[![Watch Video](assets/Dashboard.png)]([https://youtu.be/GVQFgMIohHs])
+### 🎬 Live 
+[Watch Video](https://youtu.be/GVQFgMIohHs)
 
 
 
