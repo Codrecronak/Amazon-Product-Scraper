@@ -179,7 +179,8 @@ Ensure you have the following installed:
 ### 📸 Screenshots
 
 #### 🏠 Main Dashboard
-![Dashboard](https://via.placeholder.com/800x400/0080ff/ffffff?text=Dashboard+Screenshot)
+![Alt text](assets/Screenshot 2025-08-04 002900.png)
+
 
 #### 📊 Data Analysis
 ![Analytics](https://via.placeholder.com/800x400/FF4B4B/ffffff?text=Analytics+Screenshot)
