@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/github/license/Codrecronak/Amazon-Product-Scraper?style=flat-square&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+    <img src="https://img.shields.io/github/license/Codrecronak/Amazon-Product-Scraper?style=flat-square&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="License">
     <img src="https://img.shields.io/github/last-commit/Codrecronak/Amazon-Product-Scraper?style=flat-square&logo=git&logoColor=white&color=0080ff" alt="last-commit">
     <img src="https://img.shields.io/github/languages/top/Codrecronak/Amazon-Product-Scraper?style=flat-square&color=0080ff" alt="repo-top-language">
    
