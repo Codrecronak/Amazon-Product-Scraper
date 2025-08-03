@@ -172,9 +172,8 @@ Ensure you have the following installed:
 ## 📱 Demo
 
 ### 🎬 Live Demo
-> **🔗 [Try Live Demo](https://your-app-url.streamlit.app)**
+![Watch demo video](assets/demo.mp4)
 
-*Experience the full functionality of Amazon Product Scraper with our hosted demo!*
 
 ### 📸 Screenshots
 
@@ -186,15 +185,7 @@ Ensure you have the following installed:
 ![Analytics](assets/Analytics.png)
 
 #### 🤖 AI Insights  
-![AI Insights](https://via.placeholder.com/800x400/4B0082/ffffff?text=AI+Insights+Screenshot)
-
-### 🎥 Video Demo
-```
-📹 Watch our comprehensive demo video:
-https://youtu.be/your-demo-video-id
-```
-
----
+![AI Insights](assets/AI_insights)
 
 ## 🌐 Live Application
 
