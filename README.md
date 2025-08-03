@@ -172,7 +172,7 @@ Ensure you have the following installed:
 ## 📱 Demo
 
 ### 🎬 Live Demo
-![Watch demo video](assets/demo.mp4)
+[Watch demo video](assets/demo.mp4)
 
 
 ### 📸 Screenshots
@@ -185,7 +185,7 @@ Ensure you have the following installed:
 ![Analytics](assets/Analytics.png)
 
 #### 🤖 AI Insights  
-![AI Insights](assets/AI_insights)
+![AI Insights](assets/AI_insights.png)
 
 ## 🌐 Live Application
 
