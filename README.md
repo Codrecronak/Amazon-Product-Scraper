@@ -164,9 +164,8 @@ Ensure you have the following installed:
    - The Streamlit interface will load automatically
 
 3. **Start scraping:**
-   - Enter Amazon product URLs or search queries
-   - Configure scraping parameters
-   - Click "Start Scraping" and watch the magic happen!
+   - Enter the product name
+   - Click "Scrape product data" and watch the magic happen!
 
 ---
 
@@ -275,37 +274,7 @@ pytest --cov=. --cov-report=html
 
 ---
 
-## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-### 🎯 Ways to Contribute
-
-1. **🐛 Bug Reports**: Found a bug? [Open an issue](https://github.com/Codrecronak/Amazon-Product-Scraper/issues)
-2. **💡 Feature Requests**: Have an idea? [Start a discussion](https://github.com/Codrecronak/Amazon-Product-Scraper/discussions)
-3. **📝 Documentation**: Help improve our docs
-4. **🧪 Testing**: Write tests and improve coverage
-5. **💻 Code**: Submit pull requests
-
-### 📋 Development Setup
-
-```bash
-# Fork the repository
-git clone https://github.com/your-username/Amazon-Product-Scraper.git
-
-# Create a feature branch
-git checkout -b feature/amazing-feature
-
-# Make your changes and commit
-git commit -m "Add amazing feature"
-
-# Push to your fork
-git push origin feature/amazing-feature
-
-# Create a Pull Request
-```
-
----
 
 ## 📄 License
 
@@ -339,9 +308,6 @@ MIT License - Feel free to use this project for personal and commercial purposes
 ### 🆘 Need Help?
 
 - 📧 **Email**: support@your-domain.com
-- 💬 **Discord**: [Join our community](https://discord.gg/your-server)
-- 📱 **Twitter**: [@your-handle](https://twitter.com/your-handle)
-- 📖 **Documentation**: [Full Docs](https://your-docs-site.com)
 
 ### 🐛 Report Issues
 
