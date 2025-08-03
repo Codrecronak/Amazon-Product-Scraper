@@ -1,5 +1,4 @@
 
-
 <p align="center">
     <h1 align="center">🛒 AMAZON PRODUCT SCRAPER</h1>
 </p>
@@ -172,7 +171,8 @@ Ensure you have the following installed:
 ## 📱 Demo
 
 ### 🎬 Live Demo
-![Watch demo video](assets/demo.mp4)
+[![Watch Video](assets/Dashboard.png)]([https://youtu.be/GVQFgMIohHs])
+
 
 
 ### 📸 Screenshots
