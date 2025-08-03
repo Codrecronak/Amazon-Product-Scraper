@@ -12,10 +12,7 @@
     <img src="https://img.shields.io/github/license/Codrecronak/Amazon-Product-Scraper?style=flat-square&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
     <img src="https://img.shields.io/github/last-commit/Codrecronak/Amazon-Product-Scraper?style=flat-square&logo=git&logoColor=white&color=0080ff" alt="last-commit">
     <img src="https://img.shields.io/github/languages/top/Codrecronak/Amazon-Product-Scraper?style=flat-square&color=0080ff" alt="repo-top-language">
-    <img src="https://img.shields.io/github/languages/count/Codrecronak/Amazon-Product-Scraper?style=flat-square&color=0080ff" alt="repo-language-count">
-    <img src="https://img.shields.io/github/stars/Codrecronak/Amazon-Product-Scraper?style=flat-square&color=0080ff" alt="stars">
-    <img src="https://img.shields.io/github/forks/Codrecronak/Amazon-Product-Scraper?style=flat-square&color=0080ff" alt="forks">
-    <img src="https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python&logoColor=white" alt="python-version">
+   
 </p>
 
 <p align="center">
