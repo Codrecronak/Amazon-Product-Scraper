@@ -8,7 +8,7 @@ from Controllers.scraper_controller import search_products
 # Page setup
 st.set_page_config(page_title="Amazon Scraper", page_icon="🛍️", layout="centered")
 
-with open("styles/style.css") as f:
+with open("Styles/style.css") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 

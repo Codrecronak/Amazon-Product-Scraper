@@ -1,5 +1,4 @@
 
-
 <p align="center">
     <h1 align="center">🛒 AMAZON PRODUCT SCRAPER</h1>
 </p>
@@ -9,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/github/license/Codrecronak/Amazon-Product-Scraper?style=flat-square&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+    <img src="https://img.shields.io/github/license/Codrecronak/Amazon-Product-Scraper?style=flat-square&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="License">
     <img src="https://img.shields.io/github/last-commit/Codrecronak/Amazon-Product-Scraper?style=flat-square&logo=git&logoColor=white&color=0080ff" alt="last-commit">
     <img src="https://img.shields.io/github/languages/top/Codrecronak/Amazon-Product-Scraper?style=flat-square&color=0080ff" alt="repo-top-language">
    
@@ -171,87 +170,28 @@ Ensure you have the following installed:
 
 ## 📱 Demo
 
-### 🎬 Live Demo
-> **🔗 [Try Live Demo](https://your-app-url.streamlit.app)**
+### 🎬 Live 
+[WATCH VIDEO DEMO HERE](https://youtu.be/GVQFgMIohHs)
 
-*Experience the full functionality of Amazon Product Scraper with our hosted demo!*
+
 
 ### 📸 Screenshots
 
 #### 🏠 Main Dashboard
-![Dashboard](assets/Screenshot 2025-08-04 002900.png)
+![Dashboard](assets/Dashboard.png)
 
 
 #### 📊 Data Analysis
-![Analytics](https://via.placeholder.com/800x400/FF4B4B/ffffff?text=Analytics+Screenshot)
+![Analytics](assets/Analytics.png)
 
 #### 🤖 AI Insights  
-![AI Insights](https://via.placeholder.com/800x400/4B0082/ffffff?text=AI+Insights+Screenshot)
-
-### 🎥 Video Demo
-```
-📹 Watch our comprehensive demo video:
-https://youtu.be/your-demo-video-id
-```
-
----
+![AI Insights](assets/AI_insights.png)
 
 ## 🌐 Live Application
 
 ### 🚀 Deployed App
-**🔗 [Amazon Product Scraper - Live App](https://your-deployed-app-url.streamlit.app)**
+**🔗 [Amazon Product Scraper - Live App](https://amazon-web-scraper.streamlit.app/)**
 
-### 📋 Demo Credentials
-```
-Username: demo_user
-Password: demo_password
-```
-
-*Note: The live demo has rate limiting enabled for fair usage.*
-
----
-
-## 📖 API Documentation
-
-### 🔌 Endpoints
-
-#### Scrape Product
-```python
-POST /api/scrape
-{
-    "url": "https://amazon.com/product-url",
-    "include_reviews": true,
-    "max_reviews": 100
-}
-```
-
-#### Bulk Scraping
-```python
-POST /api/bulk-scrape
-{
-    "urls": ["url1", "url2", "url3"],
-    "format": "csv"
-}
-```
-
----
-
-## 🧪 Testing
-
-Run the test suite:
-
-```bash
-# Install test dependencies
-pip install pytest pytest-cov
-
-# Run all tests
-pytest
-
-# Run with coverage
-pytest --cov=. --cov-report=html
-```
-
----
 
 ## 🔮 Roadmap
 
@@ -308,7 +248,7 @@ MIT License - Feel free to use this project for personal and commercial purposes
 
 ### 🆘 Need Help?
 
-- 📧 **Email**: support@your-domain.com
+- 📧 **Email**: ronaksspw@gmail.com
 
 ### 🐛 Report Issues
 
